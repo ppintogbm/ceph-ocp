@@ -5,7 +5,7 @@ metadata:
   name: csi-cephfs-sc
 provisioner: cephfs.csi.ceph.com
 parameters:
-  clusterID: e9d708a8-d4f7-4b98-97dc-700c52d67fcc
+  clusterID: 3e8e283a-04dc-41db-9ec8-c7698d757dc5 
   fsName: cephfs
   csi.storage.k8s.io/provisioner-secret-name: csi-cephfs-secret
   csi.storage.k8s.io/provisioner-secret-namespace: ceph-csi
